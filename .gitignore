@@ -1,0 +1,13 @@
+*.log
+*.bak
+*.old
+*.og.*
+*.orig
+*.tmp
+*.temp
+*.html
+
+# Bitburner runtime state and generated files.
+bitburnerFiles/log.*.txt
+bitburnerFiles/reserve.txt
+bitburnerFiles/Temp/
